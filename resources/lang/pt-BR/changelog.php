@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'title' => 'Product changes',
-    'note' => 'Note: unfortunately, this page is only in English.',
+    'title' => 'Alterações do produto',
+    'note' => 'Obs: infelizmente, esta página se encontra apenas em Inglês.',
 ];

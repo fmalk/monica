@@ -1,11 +1,11 @@
 <?php
 
 return [
-    'type_birthday' => 'Wish happy birthday to',
-    'type_phone_call' => 'Call',
-    'type_lunch' => 'Lunch with',
-    'type_hangout' => 'Hangout with',
+    'type_birthday' => 'Deseje feliz aniversário para',
+    'type_phone_call' => 'Ligar',
+    'type_lunch' => 'Almoçar com',
+    'type_hangout' => 'Encontrar com',
     'type_email' => 'Email',
-    'type_birthday_kid' => 'Wish happy birthday to the kid of',
+    'type_birthday_kid' => 'Desejar faliz aniversário para o(a) filho(a) de',
 
 ];

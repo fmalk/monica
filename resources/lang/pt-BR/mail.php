@@ -2,28 +2,28 @@
 
 return [
 
-    'subject_line' => 'Reminder for :contact',
-    'greetings' => 'Hi :username',
-    'want_reminded_of' => 'You wanted to be reminded of :reason',
-    'for' => 'For: :name',
-    'comment' => 'Comment: :comment',
-    'footer_contact_info' => 'Add, view, complete, and change information about this contact:',
-    'footer_contact_info2' => 'See :name’s profile',
-    'footer_contact_info2_link' => 'See :name’s profile: :url',
+    'subject_line' => 'Lembrete de :contact',
+    'greetings' => 'Oi :username',
+    'want_reminded_of' => 'Você quis ser lembrado de :reason',
+    'for' => 'Para: :name',
+    'comment' => 'Comentário: :comment',
+    'footer_contact_info' => 'Adicione, vieja, complete e mude informações sobre este contato:',
+    'footer_contact_info2' => 'Veja o perfil de :name',
+    'footer_contact_info2_link' => 'Veja o perfil de :name: :url',
 
-    'notification_subject_line' => 'You have an upcoming event',
-    'notification_description' => 'In :count days (on :date), the following event will happen:',
+    'notification_subject_line' => 'Você tem um evento próximo',
+    'notification_description' => 'Em :count dias (:date), o seguinte evento vai acontecer:',
 
-    'stay_in_touch_subject_line' => 'Stay in touch with :name',
-    'stay_in_touch_subject_description' => 'You asked to be reminded to stay in touch with :name every :frequency day.|You asked to be reminded to stay in touch with :name every :frequency days.',
+    'stay_in_touch_subject_line' => 'Mantenha contato com :name',
+    'stay_in_touch_subject_description' => 'Você pediu para lembrar-mos de manter o contato com :name a cada :frequency dia.|Você pediu para lembrar-mos de manter o contato com :name a cada :frequency dias.',
 
-    'notifications_whoops' => 'Whoops!',
-    'notifications_hello' => 'Hello!',
-    'notifications_regards' => 'Regards',
-    'notifications_footer' => 'If you’re having trouble clicking the ":actionText" button, copy and paste the URL below into your web browser: [:actionURL](:actionURL)',
-    'notifications_rights' => 'All rights reserved',
+    'notifications_whoops' => 'Ops!',
+    'notifications_hello' => 'Olá!',
+    'notifications_regards' => 'Saudações',
+    'notifications_footer' => 'Se você está tendo dificuldades para clicar no botão ":actionText", copie e cole a URL abaixo no seu navegador: [:actionURL](:actionURL)',
+    'notifications_rights' => 'Todos os direitos reservados',
 
-    'confirmation_email_title' => 'Monica – Email verification',
-    'confirmation_email_intro'=> 'To validate your email click on the button below',
-    'confirmation_email_button' => 'Verify email address',
+    'confirmation_email_title' => 'Monica – Verificação de Email',
+    'confirmation_email_intro'=> 'Para validar seu email clique no botão abaixo',
+    'confirmation_email_button' => 'Verificar endereço de email',
 ];
